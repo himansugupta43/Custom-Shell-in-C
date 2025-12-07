@@ -1,0 +1,15 @@
+exit
+ls
+warp ..
+ls
+cd ..
+ls
+cat abcd.txt
+echo "helo hheriha" > abcd.txt
+ls
+cat temp.txt
+peek
+echo "hello how are you" > temp.txt
+peek
+seek -de programming
+seek -d programming

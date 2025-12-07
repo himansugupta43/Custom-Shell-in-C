@@ -1,0 +1,5 @@
+apple
+banana
+This is the correct output
+date 
+fig
