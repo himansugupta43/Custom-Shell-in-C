@@ -1,4 +1,4 @@
-# Shell Implementation in C - README
+# Shell Implementation in C
 
 This is a C language implementation of a shell. The project covers various features and functionalities commonly found in Unix-like shells. Below are the details of the features implemented, along with certain assumptions and considerations.
 
